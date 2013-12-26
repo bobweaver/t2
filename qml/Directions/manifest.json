@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of directionsssss",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "directionsssss": {
+            "apparmor": "directionsssss.json",
+            "desktop": "directionsssss.desktop"
+        }
+    },
+    "maintainer": "Joseph Mills <josephjamesmills@gmail.com>",
+    "name": "com.ubuntu.developer.josephjamesmills.directionsssss",
+    "title": "directionsssss",
+    "version": "0.1"
+}

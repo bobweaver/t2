@@ -1,0 +1,56 @@
+ubuntu-mobile (0.0.9) quantal; urgency=low
+
+  * Fixed copyright/packaging issues. 
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Wed, 20 Feb 2013 19:50:10 -0300
+
+ubuntu-mobile (0.0.8) quantal; urgency=low
+
+  * Add missing application icons, indicator icons and rename some icons
+    to match the .desktop files
+
+ -- Antti Kaijanmäki <antti.kaijanmaki@canonical.com>  Wed, 13 Feb 2013 21:08:41 +0200
+
+ubuntu-mobile (0.0.7) quantal; urgency=low
+
+  * Updated icon for new message.
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Wed, 19 Dec 2012 15:25:31 -0300
+
+ubuntu-mobile (0.0.6) quantal; urgency=low
+
+  * Added symbolic icons for webapps.
+
+ -- Renato <renato@renatoLenovo>  Mon, 17 Dec 2012 12:48:27 -0300
+
+ubuntu-mobile (0.0.5) quantal; urgency=low
+
+  * Updated wifi secure icons.
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Fri, 07 Dec 2012 18:09:51 +0000
+
+ubuntu-mobile (0.0.4) quantal; urgency=low
+
+  * Added missing icons for secure network
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Thu, 06 Dec 2012 20:14:10 +0000
+
+ubuntu-mobile (0.0.3) quantal; urgency=low
+
+  * Added symbolic link icons for network manager.
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Thu, 06 Dec 2012 16:06:24 +0000
+
+ubuntu-mobile (0.0.2) quantal; urgency=low
+
+  * Removed svg icons.
+  * Added cmake as a dependency.
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Tue, 04 Dec 2012 23:28:54 +0000
+
+ubuntu-mobile (0.0.1) quantal; urgency=low
+
+  * Initial ubuntu mobile icons
+
+ -- Renato Araujo Oliveira Filho <renato@canonical.com>  Tue, 04 Dec 2012 13:39:41 -0300
+

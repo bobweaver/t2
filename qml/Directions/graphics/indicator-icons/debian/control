@@ -1,0 +1,16 @@
+Source: ubuntu-mobile
+Section: gnome
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Build-Depends: debhelper (>= 9),
+               cmake (>= 2.8.9),
+Standards-Version: 3.9.3
+Vcs-Bzr: lp:ubuntu-indicators/icons
+
+Package: ubuntu-mobile
+Architecture: all
+Depends: ${misc:Depends},
+         hicolor-icon-theme
+Description: Ubuntu Mobile Icon theme
+ Ubuntu mobile icons used for phone and tablet applications and shell.
+
